@@ -1,0 +1,2 @@
+The example contains the source code of the project created in this step-by-step tutorial: 
+[Creating and Running Your First Ruby Project](https://www.jetbrains.com/help/ruby/creating-and-running-your-first-language-project.html).
